@@ -1,0 +1,8 @@
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\bin\Debug\AtividadeJogoDaAmizade.exe.config
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\bin\Debug\AtividadeJogoDaAmizade.exe
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\bin\Debug\AtividadeJogoDaAmizade.pdb
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\obj\Debug\AtividadeJogoDaAmizade.csproj.AssemblyReference.cache
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\obj\Debug\AtividadeJogoDaAmizade.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\obj\Debug\AtividadeJogoDaAmizade.csproj.CoreCompileInputs.cache
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\obj\Debug\AtividadeJogoDaAmizade.exe
+C:\Users\Dudu\source\repos\AtividadeJogoDaAmizade\AtividadeJogoDaAmizade\obj\Debug\AtividadeJogoDaAmizade.pdb
